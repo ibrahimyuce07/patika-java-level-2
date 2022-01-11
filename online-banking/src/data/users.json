@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Ibrahim Yuce",
+    "tcNo": "12345678901",
+    "birthDate": "2000-01-01",
+    "password": "12345678901",
+    "balance": "0"
+  },
+  {
+    "fullName": "John Doe",
+    "tcNo": "534234324",
+    "birthDate": "1994-01-01",
+    "password": "4324214",
+    "balance": "0"
+  }
+]
